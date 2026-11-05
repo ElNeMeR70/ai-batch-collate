@@ -1,0 +1,4 @@
+[project]
+name = "ai-batch-collate"
+version = "0.1.0"
+description = "Pads variable-length token sequences to longest sequence in batch, generating corresponding binary attention masks."
